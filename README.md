@@ -1,0 +1,4 @@
+mean-framework
+==============
+
+Mean Framework
