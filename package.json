@@ -1,0 +1,23 @@
+{
+  "name": "mean-framework",
+  "version": "0.0.0",
+  "description": "Mean Framework",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cortezcristian/mean-framework.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Cristian Cortez <cortez.cristian@gmail.com> (http://cortezcristian.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortezcristian/mean-framework/issues"
+  }
+}
